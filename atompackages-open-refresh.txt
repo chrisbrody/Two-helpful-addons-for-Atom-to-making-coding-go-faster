@@ -1,0 +1,21 @@
+ATOM 1.1 - Intro to video for Atom Packages
+ATOM 1.2 - What are packages
+ATOM 1.3 - Open In Browsers
+ATOM 1.4 - Browser Refresh On Save
+ATOM 1.5 - Outro to video for Atom Packages
+
+
+
+ATOM 1.1 - Intro to video for Atom Packages
+Chris from Codify Academy here.
+In this video we're going to download 2 packages for atom, the first one "Open In Browsers" will let us open an index.html file in google with 1 click and the second "Browser Refresh On Save" will refresh the browser when you save in atom.
+
+ATOM 1.2 - What are packages
+I hope you're wonndering what packages are for atom? well they are just little addons that make are lives as coders easier, No one wants to have to click the file path, open up google, paste in the URL and hit enter to see what your code looks like. that takes too much time, shouldn't there be a way to open the file with one click?
+
+ATOM 1.3 - Open In Browsers
+There is with lets download our first package together, hit control or command comma, Atoms settings with open, swtich to packages and we can search for "Open in Browsers".
+
+Click install
+ATOM 1.4 - Browser Refresh On Save
+ATOM 1.5 - Outro to video for Atom Packages
